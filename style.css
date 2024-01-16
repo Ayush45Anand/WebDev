@@ -11,11 +11,11 @@
 }
 
 :root {
-    --bg-color: #1f3831;
+    --bg-color: #132a49;
     --second-bg-color: #202020;
     --text-color: #fff0f0;
     --second-color: #ccc;
-    --main-color: #05ffbc;
+    --main-color: #05ffee;
     --big-font: 5rem;
     --h2-font: 3rem;
     --p-font: 1.1rem;
@@ -49,7 +49,7 @@ header {
 }
 
 span {
-    color: var(--main-color);
+    color:#79ffdbdf;
 }
 
 .navlist {
@@ -126,7 +126,6 @@ section {
     color: var(--text-color);
     line-height: 1.1;
     margin: 0 0 8px;
-
 }
 
 .home-text h3 {
@@ -136,7 +135,6 @@ section {
     font-weight: 700;
     line-height: 1.1;
 }
-
 .home-text p {
     color: var(--second-color);
     font-size: var(--p-font);
